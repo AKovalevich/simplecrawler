@@ -6,4 +6,4 @@
 
 Дефолтный порт: ```8080```
 
-URL: ```http://localhost:8080/crawler?url=https://go
+URL: ```http://localhost:8080/crawler?url=https://google.com&url=https://vk.com```
